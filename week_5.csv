@@ -1,0 +1,9 @@
+customer_id,customer_name,payment_id,amount,payment_mode,payment_date,payment_status
+101,Arun,1001,2500.00,UPI,2026-09-01,Successful
+102,Priya,1002,1500.00,"Credit Card",2026-09-02,Successful
+103,Rahul,1003,3200.00,"Debit Card",2026-09-03,Successful
+104,Divya,1004,1800.00,UPI,2026-09-04,Successful
+105,Karthik,1005,4500.00,"Net Banking",2026-09-05,Failed
+101,Arun,1006,1200.00,UPI,2026-09-06,Successful
+102,Priya,1007,2700.00,"Credit Card",2026-09-07,Successful
+103,Rahul,1008,3500.00,UPI,2026-09-08,Successful
